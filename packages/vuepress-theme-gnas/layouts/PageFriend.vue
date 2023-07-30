@@ -14,7 +14,7 @@
 
         <p>
           如果要和本站交换友链，请按照以下格式发送到
-          <a href="mailto:664652740@qq.com">664652740@qq.com</a
+          <a href="mailto:1912956608@qq.com">1912956608@qq.com</a
           >，或在下方留言区留言
         </p>
 
@@ -24,12 +24,12 @@
           <p>名字： Ryan周</p>
           <p>
             地址：
-            <a href="https://www.sanghangning.cn"
-              >https://www.sanghangning.cn</a
+            <a href="http://wuzeyu.ryanzhou.icu:8080"
+              >http://wuzeyu.ryanzhou.icu:8080</a
             >
           </p>
           <p>描述： 说说我的生活</p>
-          <p>头像： https://cdn.chenyingshuang.cn/index/avatar.jpg</p>
+          <p>头像： https://my-secrets.oss-cn-hangzhou.aliyuncs.com/boy.jpg</p>
         </div>
       </div>
       <div class="friend-card-wrap-box">

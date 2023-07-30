@@ -1,5 +1,5 @@
 module.exports = {
-  title: "vuepress-theme-gnas",
+  title: "Welcome To Ryan周 Blog",
   dest: "example/dist",
   plugins: {
     "@vuepress/back-to-top": true,
@@ -40,11 +40,19 @@ module.exports = {
       autoplay: false,
       list: [
         {
-          name: "Fine乐团_没有人不比我快乐",
+          name: "刀郎 - 罗刹海市",
+          href: "/music/刀郎 - 罗刹海市.mp3",
+        },
+        {
+          name: "萧潇 - 爱要坦荡荡",
+          href: "/music/萧潇 - 爱要坦荡荡.mp3",
+        },
+        {
+          name: "Fine乐团 - 没有人不比我快乐",
           href: "/music/Fine乐团_没有人不比我快乐.mp3",
         },
         {
-          name: "Fine乐团_呼吸决定",
+          name: "Fine乐团 - 呼吸决定",
           href: "/music/Fine乐团_呼吸决定.mp3",
         },
       ],
@@ -54,7 +62,7 @@ module.exports = {
     home: {
       titleLogo: "/img/titleLogo.gif",
       title: "说说我的生活",
-      description: "Think twice before you do.",
+      description: "More Boos. More Think. Enjoy Life",
 
       bannerList: ["/img/bg1.jpg", "/img/bg2.jpg", "/img/bg3.jpg"],
       authorConfig: {
@@ -71,7 +79,7 @@ module.exports = {
         enable: true,
         boy: "/img/boy.jpg",
         girl: "/img/girl.jpg",
-        startDay: "2019/06/29",
+        startDay: "2022/12/18",
       },
       carouselConfig: {
         enable: true,
@@ -126,7 +134,7 @@ module.exports = {
       },
       {
         text: "GitHub",
-        link: "https://github.com/ShnHz/vuepress-theme-gnas",
+        link: "https://github.com/CAILeiz/vuepress-theme-gnas",
       },
     ],
     sidebar: [

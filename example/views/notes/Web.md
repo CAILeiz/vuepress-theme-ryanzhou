@@ -1,17 +1,16 @@
 ---
 title: 书签
-config: {
-    dir: true,
-}
+config: { dir: true }
 ---
 
-[「Github」ShnHz](https://github.com/ShnHz)
+[「Github」CAILeiz](https://github.com/CAILeiz)
 
-[「Github」SHN-UI](https://shnhz.github.io/shn-ui/#/component/installation)
+[「Github」SHN-UI](https://CAILeiz.github.io/shn-ui/#/component/installation)
 
-[「Github」say-my-life](https://shnhz.github.io/say-my-life/)
+[「Github」say-my-life](https://CAILeiz.github.io/say-my-life/)
 
 ### 技术文档
+
 [「Vue」Vue.js](https://cn.vuejs.org/v2/api/)
 
 [「Vue」Vue Cli](https://cli.vuejs.org/zh/)
@@ -26,7 +25,7 @@ config: {
 
 [「Vue」Vue-Awesome-Swiper](https://github.com/surmon-china/vue-awesome-swiper)
 
-[「Vue」vue-design vue源码分析：elegant分支本地启动](https://github.com/HcySunYang/vue-design)
+[「Vue」vue-design vue 源码分析：elegant 分支本地启动](https://github.com/HcySunYang/vue-design)
 
 [「React」React](https://react.docschina.org/)
 
@@ -40,30 +39,30 @@ config: {
 
 [「Js」three.js](https://threejs.org/)
 
-
 ### 实用工具
-[「Json」在线JSON校验格式化工具](https://www.bejson.com/)
+
+[「Json」在线 JSON 校验格式化工具](https://www.bejson.com/)
 
 [「作图」流程图等](https://www.processon.com/)
 
 [「作图」思维导图](https://zhimap.com/auth)
 
-[「文件格式转换」Word转PDF](https://smallpdf.com/cn/word-to-pdf)
+[「文件格式转换」Word 转 PDF](https://smallpdf.com/cn/word-to-pdf)
 
-[「文件格式转换」PNG转JPG](https://png2jpg.com/zh/)
+[「文件格式转换」PNG 转 JPG](https://png2jpg.com/zh/)
 
-[「文件格式转换」JPG转PNG](https://jpg2png.com/zh/)
+[「文件格式转换」JPG 转 PNG](https://jpg2png.com/zh/)
 
 [「字体」Transfonter](https://transfonter.org/)
 
 [「作图」雪碧图制作](https://alloyteam.github.io/gopng/)
 
-[「作图」录屏GIF](https://github.com/NickeManarin/ScreenToGif)
+[「作图」录屏 GIF](https://github.com/NickeManarin/ScreenToGif)
 
-[「作图」裁剪GIF](https://www.iloveimg.com/zh-cn/crop-image/crop-gif)
+[「作图」裁剪 GIF](https://www.iloveimg.com/zh-cn/crop-image/crop-gif)
 
+### UI 参考
 
-### UI参考
 [「UI」花瓣网](https://huaban.com/)
 
 [「UI」GetThthr](http://www.invisionapp.com/inside-design/design-resources/tethr/)
@@ -80,10 +79,10 @@ config: {
 
 [「配色」Adobe Color](https://color.adobe.com/zh/create/color-wheel)
 
-[「自定义颜色svg」unDraw](https://undraw.co/illustrations)
+[「自定义颜色 svg」unDraw](https://undraw.co/illustrations)
 
+### CSS3 动画
 
-### CSS3动画
 [「CSS3」Animate.css](https://daneden.github.io/animate.css/)
 
 [「CSS3」抖动](http://elrumordelaluz.github.io/csshake/)
@@ -93,19 +92,19 @@ config: {
 [「CSS3」打字特效 typed.js](https://github.com/mattboldt/typed.js)
 
 ### 好玩的
+
 [LAND LINES](https://lines.chromeexperiments.com/)
 
 [Mikutap](https://aidn.jp/mikutap/)
 
 [小霸王，其乐无穷](https://www.yikm.net/)
 
-[一款全能的下载工具motrix](https://motrix.app/zh-CN)
+[一款全能的下载工具 motrix](https://motrix.app/zh-CN)
 
-[30个CSS碎片拼图，30种濒临灭绝动物](http://www.webhek.com/misc-res/species-in-pieces/#)
+[30 个 CSS 碎片拼图，30 种濒临灭绝动物](http://www.webhek.com/misc-res/species-in-pieces/#)
 
 [Play Lines FRVR](https://lines.frvr.com/)
 
 [假装 Windows 升级界面](http://fakeupdate.net/)
 
 [壁纸](https://wallhaven.cc/)
-

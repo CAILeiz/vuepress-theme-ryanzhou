@@ -4,7 +4,7 @@ This theme refers to [vuepress-theme-gnas1.x](https://github.com/vuepress-gnas/v
 
 1. This is a Vuepress theme, which is designed to add blog categories, tag walls, comments and other functions required;
 2. The theme is minimalist, modified according to the default theme of Vuepress, and the official theme configuration is still applicable;
-3. Demo：[Ryan 周](https://www.sanghangning.cn)
+3. Demo：[Ryan 周](http://wuzeyu.ryanzhou.icu:8080)
 
 ## Quick start
 
@@ -68,8 +68,8 @@ module.exports = {
       autoplay: false,
       list: [
         {
-          name: "Fine乐团_没有人不比我快乐",
-          href: "/music/Fine乐团_没有人不比我快乐.mp3",
+          name: "刀郎 - 罗刹海市",
+          href: "/music/刀郎 - 罗刹海市.mp3",
         },
       ],
     },
@@ -82,7 +82,7 @@ module.exports = {
       // 博客名称
       title: "说说我的生活",
       // 博客简介
-      description: "Think twice before you do.",
+      description: "More Boos. More Think. Enjoy Life",
       // 背景图片列表
       bannerList: ["/img/bg1.jpg", "/img/bg2.jpg", "/img/bg3.jpg"],
       // 作者模块配置
@@ -93,7 +93,7 @@ module.exports = {
         // “是否加入书签”按钮
         bookmark: true,
         // github地址
-        github: "https://github.com/ShnHz",
+        github: "https://github.com/CAILeiz",
         // qq号
         qq: 1912956608,
         // 微信号
@@ -111,7 +111,7 @@ module.exports = {
         // 女孩头像
         girl: "/img/girl.jpg",
         // 恋爱日期
-        startDay: "2022/01/01",
+        startDay: "2022/12/18",
       },
       // 幻灯片模块配置
       carouselConfig: {
@@ -167,7 +167,7 @@ module.exports = {
       },
       {
         text: "GitHub",
-        link: "https://github.com/ShnHz/vuepress-theme-gnas",
+        link: "https://github.com/CAILeiz/vuepress-theme-gnas",
       },
     ],
     // 侧边栏配置

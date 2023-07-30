@@ -4,8 +4,8 @@ friendLink:
   [
     {
       "name": "Ryan周",
-      "href": "https://www.sanghangning.cn",
-      "icon": "https://cdn.chenyingshuang.cn/index/avatar.jpg",
+      "href": "http://wuzeyu.ryanzhou.icu:8080",
+      "icon": "https://my-secrets.oss-cn-hangzhou.aliyuncs.com/boy.jpg",
       "description": "说说我的生活",
     },
   ]
