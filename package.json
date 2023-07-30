@@ -4,7 +4,8 @@
   "description": "A simple and beautiful vuepress Blog & Doc theme.",
   "scripts": {
     "dev": "vuepress dev example",
-    "build:example": "vuepress build example"
+    "build:example": "vuepress build example",
+    "publish:8080": "vuepress build example && cd example && rm -rf ./html && mv dist html && scp -r ./html root@116.62.56.114:/usr/share/nginx/"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.9.7",
